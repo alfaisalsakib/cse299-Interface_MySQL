@@ -1,0 +1,16 @@
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\bin\Debug\mysqlWindow.exe.config
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\bin\Debug\mysqlWindow.exe
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\bin\Debug\mysqlWindow.pdb
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\bin\Debug\MySql.Data.dll
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\bin\Debug\Google.Protobuf.dll
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\bin\Debug\MySql.Data.xml
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\obj\Debug\mysqlWindow.csprojAssemblyReference.cache
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\obj\Debug\mysqlWindow.Form1.resources
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\obj\Debug\mysqlWindow.Properties.Resources.resources
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\obj\Debug\mysqlWindow.csproj.GenerateResource.cache
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\obj\Debug\mysqlWindow.csproj.CoreCompileInputs.cache
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\obj\Debug\mysqlWindow.csproj.CopyComplete
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\obj\Debug\mysqlWindow.exe
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\obj\Debug\mysqlWindow.pdb
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\bin\Debug\Newtonsoft.Json.dll
+S:\Semesters & Courses\2018\Fall-2018\CSE-299\InterfaceCode\mysqlWindow\mysqlWindow\bin\Debug\Newtonsoft.Json.xml
